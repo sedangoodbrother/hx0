@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/mh_1er/Desktop/testing/build",
+  "command": "/usr/bin/g++ -I/home/mh_1er/Desktop/testing/include -isystem /usr/include/SDL2 -g -o CMakeFiles/Fencing.dir/main.cpp.o -c /home/mh_1er/Desktop/testing/main.cpp",
+  "file": "/home/mh_1er/Desktop/testing/main.cpp",
+  "output": "CMakeFiles/Fencing.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mh_1er/Desktop/testing/build",
+  "command": "/usr/bin/g++ -I/home/mh_1er/Desktop/testing/include -isystem /usr/include/SDL2 -g -o CMakeFiles/Fencing.dir/character.cpp.o -c /home/mh_1er/Desktop/testing/character.cpp",
+  "file": "/home/mh_1er/Desktop/testing/character.cpp",
+  "output": "CMakeFiles/Fencing.dir/character.cpp.o"
+},
+{
+  "directory": "/home/mh_1er/Desktop/testing/build",
+  "command": "/usr/bin/g++ -I/home/mh_1er/Desktop/testing/include -isystem /usr/include/SDL2 -g -o CMakeFiles/Fencing.dir/menu.cpp.o -c /home/mh_1er/Desktop/testing/menu.cpp",
+  "file": "/home/mh_1er/Desktop/testing/menu.cpp",
+  "output": "CMakeFiles/Fencing.dir/menu.cpp.o"
+},
+{
+  "directory": "/home/mh_1er/Desktop/testing/build",
+  "command": "/usr/bin/g++ -I/home/mh_1er/Desktop/testing/include -isystem /usr/include/SDL2 -g -o CMakeFiles/Fencing.dir/common.cpp.o -c /home/mh_1er/Desktop/testing/common.cpp",
+  "file": "/home/mh_1er/Desktop/testing/common.cpp",
+  "output": "CMakeFiles/Fencing.dir/common.cpp.o"
+}
+]

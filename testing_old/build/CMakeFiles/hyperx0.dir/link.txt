@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hyperx0.dir/link.d CMakeFiles/hyperx0.dir/main.cpp.o CMakeFiles/hyperx0.dir/character.cpp.o CMakeFiles/hyperx0.dir/common.cpp.o -o /home/mh_1er/Desktop/testing/hyperx0  /usr/lib/x86_64-linux-gnu/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2_image.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so

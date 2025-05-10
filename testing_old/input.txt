@@ -1,0 +1,11 @@
+P1_up W
+P1_down S
+P1_left A
+P1_right D
+P1_attack SPACE
+
+P2_up UP
+P2_down DOWN
+P2_left LEFT
+P2_right RIGHT
+P2_attack RETURN
